@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/Image">
+        <file>Image/over.gif</file>
+        <file>Image/win.gif</file>
+        <file>Image/Luffy.png</file>
+    </qresource>
+</RCC>
